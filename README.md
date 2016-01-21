@@ -7,5 +7,7 @@ Video
 ======
 
 
-Currently, development is focus on providing HTML5 compatible video to be able to embeded within Sphinx documentation. 
-The next step in development is to sync video files the same way the image directive allows for images to be included.
+Currently, development is focus on providing HTML5 compatible video to be able to embeded within Sphinx documentation without using the raw directive. 
+The next step in development is to sync video files the same way the image directive allows for images to be included. 
+
+Furthermore, the current inception of this project is only for HTML output.  This is also an area of further development.
